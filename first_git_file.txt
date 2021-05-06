@@ -1,0 +1,11 @@
+This is the first git I create from Terminal code.
+
+
+
+This is the second time to practice the file content chenged!
+
+
+See that if it will be catch~ (Peace)
+
+
+Now,to add a new line to run further.
